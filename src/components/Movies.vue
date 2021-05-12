@@ -1,5 +1,6 @@
 <template>
     <div class="container">
+        <h1> Popular TV Shows </h1>
         <div class="row">
             <div class="card" style="width: 18rem;" v-for="movie in movies" :key=movie.id>
                 <img class="card-img-top" :src="`https://image.tmdb.org/t/p/w300/${movie.poster_path}`" alt="">
