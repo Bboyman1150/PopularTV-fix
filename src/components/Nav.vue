@@ -12,7 +12,7 @@
                 <!-- <a class="nav-link" href="#">Home</a> -->
                 <!-- <a class="nav-link" href="#">Movies</a> -->
                 <!-- <router-link class="nav-link" to="/">Home</router-link> -->
-                <router-link class="nav-link" to="/movies">Movies</router-link>
+                <router-link class="nav-link" to="/movies">TV</router-link>
 
             </div>
         </div>
